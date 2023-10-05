@@ -1,5 +1,5 @@
 fonts.googleapis.com
-https://wwww.facebook.com
+facebook.com
 twitter.com
 google.com
 youtube.com
